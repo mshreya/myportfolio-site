@@ -4,7 +4,7 @@ export const testimonials = [
       name: "Heide Razavi",
       designation: "Engineering Manager",
       company: "Clarivate",
-      message: "Shreya is a highly respected member of my team. She is a quick learner, pro-active and shown that she can deliver software of a complex nature to agreed deadlines and of high quality. She excels at communication and is very well liked",
+      message: "Shreya was a highly respected member of my team. She proved to be a quick learner, pro-active and demonstrated that she can deliver software of a complex nature to agreed deadlines and of high quality. She excelled at communication and was very well liked.",
     },
     {
       imageUrl: "/photos/testimonial-2.jpg",

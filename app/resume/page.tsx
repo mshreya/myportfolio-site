@@ -26,8 +26,8 @@ export default function Resume() {
       <h1 className="mt-12 mb-4 text-2xl font-medium tracking-tight">Resume</h1>
       <div>
         <a
-          href="/path/to/resume.pdf"  // Replace with your actual resume path
-          download="YourName_Resume.pdf"
+          href="/software_dev_resume.pdf"  // Replace with your actual resume path
+          download="software_dev_resume.pdf"
         >
           <button className="px-4 py-2 bg-green-500 text-white rounded-md flex items-center gap-2 hover:bg-green-400 transition-all">
             <FaDownload />
